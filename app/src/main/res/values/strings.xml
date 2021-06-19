@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Practical2_Zane</string>
+    <string name="Attr1">National Art gallery</string>
+    <string name="Attr2">Art and Science Musuem</string>
+    <string name="Atrr3">Universal Studios Singapore</string>
+    <string name="Attr4">Adventure Cove</string>
+    <string name="Attr5">Botanic Gardens</string>
+    <string name="Attr6">Haw Par Villa</string>
+    <string name="Attr7">Esplanade</string>
+    <string name="Attr8">Wild Wild wet</string>
+    <string name="Attr9">Singapore Zoo</string>
+    <string name="Attr10">Night Safari</string>
+    <string name="back_to_homepage">Back to Homepage</string>
+    <string name="back_to_Homepage">Back to homepage</string>
+
+
+</resources>

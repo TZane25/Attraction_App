@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B7880E4F"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/header2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="#FD7C7C"
+        android:gravity="center"
+        android:text="EXPLORE SINGAPORE"
+        android:textSize="18sp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/Atr1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:background="#FD7C7C"
+                android:text="@string/Attr1"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/Atr2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:background="#FD7C7C"
+                android:text="@string/Attr2"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/Atr3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:background="#FD7C7C"
+                android:text="@string/Atrr3"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/Atr4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:background="#FD7C7C"
+                android:text="@string/Attr4"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/Atr5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:background="#FD7C7C"
+                android:text="@string/Attr5"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/Atr6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:background="#FD7C7C"
+                android:text="@string/Attr6"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/Atr7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:background="#FD7C7C"
+                android:text="@string/Attr7"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/Atr8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:background="#FD7C7C"
+                android:text="@string/Attr8"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/Atr9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:background="#FD7C7C"
+                android:text="@string/Attr9"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/Atr10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:background="#FD7C7C"
+                android:text="@string/Attr10"
+                android:textColor="#000000" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
